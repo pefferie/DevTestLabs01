@@ -1,0 +1,9 @@
+
+{  
+"itemDisplayName": "Create a new VM from Custom Image with attached disks",  
+"description": "This template creates a new VM with existing data disks attached using Custom Image in DTL",  
+"summary": "This template creates a new VM with existing data disks attached using Custom Image in DTL",  
+"githubUsername": "eyem4usf",  
+"dateUpdated": "2016-12-07"
+
+}
